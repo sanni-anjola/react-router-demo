@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Boyo",
+      "title": "HTML",
+      "body": "How to Marry Lolade"
+    },
+    {
+      "id": 1,
+      "author": "AbdurRahman",
+      "title": "Understanding a Nifemi's crush",
+      "body": "See me for more..."
+    }
+  ],
+  "comments": [
+    {
+        "id": 1,
+        "postId": 1,
+        "comment": "A lovely book to read"
+    }
+
+  ]
+}

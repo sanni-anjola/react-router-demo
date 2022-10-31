@@ -8,7 +8,7 @@ const Register = () => {
   const handleSubmit = () => {
     toast.success("You have successfully registered");
     setTimeout(() => {
-      navigate("/", {replace: true});
+      navigate("/", {replace: true, state: {name: "anjola"}});
     }, 3001);
   };
 
